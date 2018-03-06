@@ -1,0 +1,24 @@
+C:\Users\Korisnik\Desktop\NeuralM\NeuralM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\NeuralM\NeuralM\obj\x86\Debug\NeuralM.Form1.resources
+C:\Users\Korisnik\Desktop\NeuralM\NeuralM\obj\x86\Debug\NeuralM.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\NeuralM\NeuralM\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Korisnik\Desktop\NeuralM\NeuralM\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Korisnik\Desktop\NeuralM\NeuralM\bin\Debug\NeuralM.exe
+C:\Users\Korisnik\Desktop\NeuralM\NeuralM\bin\Debug\NeuralM.pdb
+C:\Users\Korisnik\Desktop\NeuralM\NeuralM\obj\x86\Debug\NeuralM.exe
+C:\Users\Korisnik\Desktop\NeuralM\NeuralM\obj\x86\Debug\NeuralM.pdb
+C:\Users\Korisnik\Desktop\NeuralM\NeuralM\obj\x86\Debug\NeuralM.Form2.resources
+C:\Users\Korisnik\Desktop\NeuralM\NeuralM\obj\x86\Debug\NeuralM.Form3.resources
+C:\Users\Korisnik\Desktop\NeuralM\NeuralM\obj\x86\Debug\NeuralM.Form4.resources
+E:\For Github\Umetna inteligenca\NeuralM\NeuralM\bin\Debug\NeuralM.exe
+E:\For Github\Umetna inteligenca\NeuralM\NeuralM\bin\Debug\NeuralM.pdb
+E:\For Github\Umetna inteligenca\NeuralM\NeuralM\obj\x86\Debug\NeuralM.csprojResolveAssemblyReference.cache
+E:\For Github\Umetna inteligenca\NeuralM\NeuralM\obj\x86\Debug\NeuralM.Form1.resources
+E:\For Github\Umetna inteligenca\NeuralM\NeuralM\obj\x86\Debug\NeuralM.Form2.resources
+E:\For Github\Umetna inteligenca\NeuralM\NeuralM\obj\x86\Debug\NeuralM.Form3.resources
+E:\For Github\Umetna inteligenca\NeuralM\NeuralM\obj\x86\Debug\NeuralM.Form4.resources
+E:\For Github\Umetna inteligenca\NeuralM\NeuralM\obj\x86\Debug\NeuralM.Properties.Resources.resources
+E:\For Github\Umetna inteligenca\NeuralM\NeuralM\obj\x86\Debug\NeuralM.csproj.GenerateResource.Cache
+E:\For Github\Umetna inteligenca\NeuralM\NeuralM\obj\x86\Debug\NeuralM.csproj.CoreCompileInputs.cache
+E:\For Github\Umetna inteligenca\NeuralM\NeuralM\obj\x86\Debug\NeuralM.exe
+E:\For Github\Umetna inteligenca\NeuralM\NeuralM\obj\x86\Debug\NeuralM.pdb
