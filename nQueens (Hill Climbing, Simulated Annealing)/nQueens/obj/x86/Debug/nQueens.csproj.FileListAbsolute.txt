@@ -1,0 +1,20 @@
+D:\FERI\ERASMUS 2. semester\Umetna inteligenca\nQueens\nQueens\bin\Debug\nQueens.exe
+D:\FERI\ERASMUS 2. semester\Umetna inteligenca\nQueens\nQueens\bin\Debug\nQueens.pdb
+D:\FERI\ERASMUS 2. semester\Umetna inteligenca\nQueens\nQueens\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\FERI\ERASMUS 2. semester\Umetna inteligenca\nQueens\nQueens\obj\x86\Debug\nQueens.Form1.resources
+D:\FERI\ERASMUS 2. semester\Umetna inteligenca\nQueens\nQueens\obj\x86\Debug\nQueens.Properties.Resources.resources
+D:\FERI\ERASMUS 2. semester\Umetna inteligenca\nQueens\nQueens\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\FERI\ERASMUS 2. semester\Umetna inteligenca\nQueens\nQueens\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\FERI\ERASMUS 2. semester\Umetna inteligenca\nQueens\nQueens\obj\x86\Debug\nQueens.exe
+D:\FERI\ERASMUS 2. semester\Umetna inteligenca\nQueens\nQueens\obj\x86\Debug\nQueens.pdb
+D:\FERI\ERASMUS 2. semester\Umetna inteligenca\nQueens\nQueens\bin\Debug\Image\Queen.jpg
+E:\For Github\Umetna inteligenca\nQueens\nQueens\bin\Debug\Image\Queen.jpg
+E:\For Github\Umetna inteligenca\nQueens\nQueens\bin\Debug\nQueens.exe
+E:\For Github\Umetna inteligenca\nQueens\nQueens\bin\Debug\nQueens.pdb
+E:\For Github\Umetna inteligenca\nQueens\nQueens\obj\x86\Debug\nQueens.csprojResolveAssemblyReference.cache
+E:\For Github\Umetna inteligenca\nQueens\nQueens\obj\x86\Debug\nQueens.Form1.resources
+E:\For Github\Umetna inteligenca\nQueens\nQueens\obj\x86\Debug\nQueens.Properties.Resources.resources
+E:\For Github\Umetna inteligenca\nQueens\nQueens\obj\x86\Debug\nQueens.csproj.GenerateResource.Cache
+E:\For Github\Umetna inteligenca\nQueens\nQueens\obj\x86\Debug\nQueens.csproj.CoreCompileInputs.cache
+E:\For Github\Umetna inteligenca\nQueens\nQueens\obj\x86\Debug\nQueens.exe
+E:\For Github\Umetna inteligenca\nQueens\nQueens\obj\x86\Debug\nQueens.pdb
