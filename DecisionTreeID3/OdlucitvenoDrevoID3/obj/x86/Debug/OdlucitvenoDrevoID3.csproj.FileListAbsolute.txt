@@ -1,0 +1,27 @@
+C:\Users\Korisnik\Desktop\OdlucitvenoDrevoID3\OdlucitvenoDrevoID3\bin\Debug\OdlucitvenoDrevoID3.exe
+C:\Users\Korisnik\Desktop\OdlucitvenoDrevoID3\OdlucitvenoDrevoID3\bin\Debug\OdlucitvenoDrevoID3.pdb
+C:\Users\Korisnik\Desktop\OdlucitvenoDrevoID3\OdlucitvenoDrevoID3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\OdlucitvenoDrevoID3\OdlucitvenoDrevoID3\obj\x86\Debug\OdlucitvenoDrevoID3.Form1.resources
+C:\Users\Korisnik\Desktop\OdlucitvenoDrevoID3\OdlucitvenoDrevoID3\obj\x86\Debug\OdlucitvenoDrevoID3.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\OdlucitvenoDrevoID3\OdlucitvenoDrevoID3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Korisnik\Desktop\OdlucitvenoDrevoID3\OdlucitvenoDrevoID3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Korisnik\Desktop\OdlucitvenoDrevoID3\OdlucitvenoDrevoID3\obj\x86\Debug\OdlucitvenoDrevoID3.exe
+C:\Users\Korisnik\Desktop\OdlucitvenoDrevoID3\OdlucitvenoDrevoID3\obj\x86\Debug\OdlucitvenoDrevoID3.pdb
+D:\FERI\ERASMUS 2. semester\Umetna inteligenca\OdlucitvenoDrevoID3\OdlucitvenoDrevoID3\obj\x86\Debug\OdlucitvenoDrevoID3.exe
+D:\FERI\ERASMUS 2. semester\Umetna inteligenca\OdlucitvenoDrevoID3\OdlucitvenoDrevoID3\obj\x86\Debug\OdlucitvenoDrevoID3.pdb
+D:\FERI\ERASMUS 2. semester\Umetna inteligenca\OdlucitvenoDrevoID3\OdlucitvenoDrevoID3\bin\Debug\OdlucitvenoDrevoID3.exe
+D:\FERI\ERASMUS 2. semester\Umetna inteligenca\OdlucitvenoDrevoID3\OdlucitvenoDrevoID3\bin\Debug\OdlucitvenoDrevoID3.pdb
+D:\FERI\ERASMUS 2. semester\Umetna inteligenca\OdlucitvenoDrevoID3\OdlucitvenoDrevoID3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\FERI\ERASMUS 2. semester\Umetna inteligenca\OdlucitvenoDrevoID3\OdlucitvenoDrevoID3\obj\x86\Debug\OdlucitvenoDrevoID3.Form1.resources
+D:\FERI\ERASMUS 2. semester\Umetna inteligenca\OdlucitvenoDrevoID3\OdlucitvenoDrevoID3\obj\x86\Debug\OdlucitvenoDrevoID3.Properties.Resources.resources
+D:\FERI\ERASMUS 2. semester\Umetna inteligenca\OdlucitvenoDrevoID3\OdlucitvenoDrevoID3\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\FERI\ERASMUS 2. semester\Umetna inteligenca\OdlucitvenoDrevoID3\OdlucitvenoDrevoID3\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\For Github\Umetna inteligenca\OdlucitvenoDrevoID3\OdlucitvenoDrevoID3\bin\Debug\OdlucitvenoDrevoID3.exe
+E:\For Github\Umetna inteligenca\OdlucitvenoDrevoID3\OdlucitvenoDrevoID3\bin\Debug\OdlucitvenoDrevoID3.pdb
+E:\For Github\Umetna inteligenca\OdlucitvenoDrevoID3\OdlucitvenoDrevoID3\obj\x86\Debug\OdlucitvenoDrevoID3.csprojResolveAssemblyReference.cache
+E:\For Github\Umetna inteligenca\OdlucitvenoDrevoID3\OdlucitvenoDrevoID3\obj\x86\Debug\OdlucitvenoDrevoID3.Form1.resources
+E:\For Github\Umetna inteligenca\OdlucitvenoDrevoID3\OdlucitvenoDrevoID3\obj\x86\Debug\OdlucitvenoDrevoID3.Properties.Resources.resources
+E:\For Github\Umetna inteligenca\OdlucitvenoDrevoID3\OdlucitvenoDrevoID3\obj\x86\Debug\OdlucitvenoDrevoID3.csproj.GenerateResource.Cache
+E:\For Github\Umetna inteligenca\OdlucitvenoDrevoID3\OdlucitvenoDrevoID3\obj\x86\Debug\OdlucitvenoDrevoID3.csproj.CoreCompileInputs.cache
+E:\For Github\Umetna inteligenca\OdlucitvenoDrevoID3\OdlucitvenoDrevoID3\obj\x86\Debug\OdlucitvenoDrevoID3.exe
+E:\For Github\Umetna inteligenca\OdlucitvenoDrevoID3\OdlucitvenoDrevoID3\obj\x86\Debug\OdlucitvenoDrevoID3.pdb
